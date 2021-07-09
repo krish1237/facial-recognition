@@ -1,0 +1,7 @@
+__pycache__/
+.*/
+
+data/
+dataset/
+keras-facenet/
+siamese_data/
